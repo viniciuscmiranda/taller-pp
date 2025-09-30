@@ -3,6 +3,10 @@
 `cd server && npm install && npm run dev`
 `cd client && npm install && npm run dev`
 
+# Test
+
+`cd server && npm run test`
+
 # Code Challenge: Fullstack Web Developer
 
 ## Code Challenge
